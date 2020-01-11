@@ -1,4 +1,4 @@
-package com.java.oop;
+package com.oop.demo;
 
 public class DeluxeSandwich extends Sandwich {
 
